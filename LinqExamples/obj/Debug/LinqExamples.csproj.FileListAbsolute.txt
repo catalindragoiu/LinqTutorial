@@ -1,0 +1,5 @@
+C:\Users\Catalin\Desktop\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\Linq\LinqExamples\LinqExamples\bin\Debug\LinqExamples.dll
+C:\Users\Catalin\Desktop\Linq\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\Users\Catalin\Desktop\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.dll
+C:\Users\Catalin\Desktop\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb

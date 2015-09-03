@@ -1,0 +1,8 @@
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\bin\Debug\Main.exe.config
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\bin\Debug\Main.exe
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\bin\Debug\Main.pdb
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\bin\Debug\LinqExamples.dll
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\bin\Debug\LinqExamples.pdb
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\obj\Debug\Main.exe
+C:\Users\Catalin\Desktop\Linq\LinqExamples\Main\obj\Debug\Main.pdb
